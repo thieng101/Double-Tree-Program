@@ -1,5 +1,3 @@
-/* COP 3502C Programming Assignment 3
-This program is written by: Hong Thy Nguyen */
 
 #include <stdio.h>
 #include <stdlib.h>
